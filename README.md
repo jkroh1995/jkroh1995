@@ -1,7 +1,7 @@
-Jae geoung ROH
-Study in HUFS
-Main language : JAVA
-Usable language : JAVA, HTML/CSS, SQL
+-Jae geoung ROH
+-Study in HUFS
+-Main language : JAVA
+-Usable language : JAVA, HTML/CSS, SQL
 
 <!---
 jkroh1995/jkroh1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
