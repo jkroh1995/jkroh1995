@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- ![image](https://user-images.githubusercontent.com/85445649/196029193-cea176d2-9d27-4c88-8b74-f9a3a7578ebd.png)
-
+- https://i.imgur.com/InNx1bt.png
 
 <!---
 jkroh1995/jkroh1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
