@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - ![image](https://user-images.githubusercontent.com/85445649/196029427-99b1660f-cff7-49e8-b789-918c1b61d4d1.png) https://soundcloud.com/alkaholik_it
-##
-- 😂😂
+## 😂😂
 
 <!---
 jkroh1995/jkroh1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
