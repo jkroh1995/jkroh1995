@@ -1,7 +1,11 @@
 # ✋Who Am I?
- > df
+- 👋 Hi, I’m @jkroh1995. Call me JK.
+- 🏫 I'm studying at Hankuk University Of Foreign Study
+- 👀 I’m interested in Backend Skills.
+- 🌱 I’m currently learning JAVA and some Algorithms.
 
 # 🔍 How Can U Find Me?
+- 🔖Blog : https://random-topic.tistory.com/
 - ![image](https://user-images.githubusercontent.com/85445649/196029427-99b1660f-cff7-49e8-b789-918c1b61d4d1.png) https://soundcloud.com/alkaholik_it
 - 👋 Hi, I’m @jkroh1995
 - 👀 I’m interested in ...
