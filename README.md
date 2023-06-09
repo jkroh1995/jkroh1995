@@ -2,7 +2,7 @@
 - Hi, I’m @jkroh1995. Call me JK.
 - I'm studying at Hankuk University Of Foreign Study
 - I’m interested in Backend Skills.
-- I’m currently learning JAVA, Spring, SpringBoot, JPA, Algorithms and some more.
+- I’m currently learning JAVA, Spring, SpringBoot, JPA, Algorithms, InfraStructures and some more.
 
 # 🔍 How Can U Find Me?
 - Blog : https://random-topic.tistory.com/
