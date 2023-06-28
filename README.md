@@ -1,6 +1,6 @@
 # ✋Who Am I?
 - Hi, I’m @jkroh1995. Call me JK.
-- I'm studying at Hankuk University Of Foreign Study
+- I has just graduated from Hankuk University Of Foreign Study
 - I’m interested in Backend Skills.
 - I’m currently learning JAVA, Spring, SpringBoot, ORM Skills, Algorithms, InfraStructures and some more.
 
